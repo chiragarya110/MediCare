@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MediCare
+Bundle-SymbolicName: MediCare
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: MediCare
+Bundle-RequiredExecutionEnvironment: JavaSE-21
